@@ -41,12 +41,11 @@ As you probably know, windows spies on us but some have decided to more or less 
 
 ## **Images** 🗃
 
-### Exif Purge
+### [EXIF Purge](http://www.exifpurge.com/)
+
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwindows-cdn.softpedia.com%2Fscreenshots%2FExif-Purge_1.png&f=1&nofb=1)
 
 « EXIF Purge is a small portable application to remove EXIF meta data from multiple images at once. With the click of a button you can remove the camera, location and other technical information from a batch of photos which is embedded by the camera or the photo editing software. » - [Exif Purge](http://www.exifpurge.com/)  
-
-[Download](http://www.exifpurge.com/)
 
 * * *
