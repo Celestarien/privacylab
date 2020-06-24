@@ -8,7 +8,7 @@
 
 « Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send cryptocurrency contributions in the form of Basic Attention Tokens to websites and content creators » - [Wikipedia](https://en.wikipedia.org/wiki/Brave_(web_browser))
 
-- Brave browser integrates "the famous" [Tor Browser](https://www.torproject.org/) 🎁 
+- Brave browser integrates [Tor Browser](https://www.torproject.org/) 🎁 
 
 ### **DuckDuckGo**
 
