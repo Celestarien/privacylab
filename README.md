@@ -26,6 +26,7 @@
 As you probably know, windows spies on us but some have decided to more or less remedy this. Here is a very small selection of what seemed to me the most effective  :
 
 * [**DisableWinTracking**](https://github.com/10se1ucgo/DisableWinTracking)  
+  
     ![](https://camo.githubusercontent.com/03243332c72f579ca5e92159c672f4e8cafe7978/687474703a2f2f692e696d6775722e636f6d2f57494e5578416a2e706e67)  
     - Run executable as **administrator** ⚠️
 
