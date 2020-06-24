@@ -1,4 +1,4 @@
-# Secure Lab 💉 
+# Privacy Lab 💉 
 
 ## **Web** 🌐
 
