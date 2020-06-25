@@ -10,6 +10,8 @@
 
 - Brave browser integrates [Tor Browser](https://www.torproject.org/) 🎁 
 
+[Scandal ](https://www.tomsguide.com/news/brave-affiliate-links-autocomplete)❗️
+
 ### **DuckDuckGo**
 
 ![DuckDuckGo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.searchenginejournal.com%2Fwp-content%2Fuploads%2F2017%2F02%2FUntitled-design-48.png&f=1&nofb=1)
