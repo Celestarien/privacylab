@@ -62,4 +62,6 @@ As you probably know, windows spies on us but some have decided to more or less 
 
 « Unbound is a validating, recursive, caching DNS resolver. It is designed to be fast and lean and incorporates modern features based on open standards. Late 2019, Unbound has been rigorously audited, which means that the code base is more resilient than ever. » - [NLNETLABS](https://nlnetlabs.nl/projects/unbound/about/)
 
+[Windows manual](https://nlnetlabs.nl/documentation/unbound/unbound-windows-manual-02.pdf)
+
 * * *
