@@ -48,6 +48,18 @@ As you probably know, windows spies on us but some have decided to more or less 
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwindows-cdn.softpedia.com%2Fscreenshots%2FExif-Purge_1.png&f=1&nofb=1)
 
+
+
 « EXIF Purge is a small portable application to remove EXIF meta data from multiple images at once. With the click of a button you can remove the camera, location and other technical information from a batch of photos which is embedded by the camera or the photo editing software. » - [Exif Purge](http://www.exifpurge.com/)  
+
+* * *
+
+## **DNS**
+
+### [Unbound](https://nlnetlabs.nl/projects/unbound/download/)
+
+![](https://nlnetlabs.nl/static/logos/Unbound/Unbound_FC_Shaded_cropped.svg)
+
+« Unbound is a validating, recursive, caching DNS resolver. It is designed to be fast and lean and incorporates modern features based on open standards. Late 2019, Unbound has been rigorously audited, which means that the code base is more resilient than ever. » - [NLNETLABS](https://nlnetlabs.nl/projects/unbound/about/)
 
 * * *
